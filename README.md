@@ -52,7 +52,6 @@ Os veículos são gerados aleatoriamente com as seguintes propriedades:
    ```bash
    python traffic_simulator.py
    ```
-   ou
    ```bash
    python traffic_simulator_with_car.py
    ```
@@ -105,7 +104,6 @@ Vehicles are spawned randomly with the following color-coded speeds:
    ```bash
    python traffic_simulator.py
    ```
-   or
    ```bash
    python traffic_simulator_with_car.py
    ```
