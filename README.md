@@ -49,13 +49,13 @@ Os veículos são gerados aleatoriamente com as seguintes propriedades:
    pip install pygame
    ```
 2. Execulte traffic_simulator.py ou traffic_simulator_with_car.py
-  ```bash
-  python traffic_simulator.py
-  ```
-  ou
-  ```bash
-  python traffic_simulator_with_car.py
-  ```
+   ```bash
+   python traffic_simulator.py
+   ```
+   ou
+   ```bash
+   python traffic_simulator_with_car.py
+   ```
 ---
 
 ## 🇺🇸 English
@@ -102,10 +102,10 @@ Vehicles are spawned randomly with the following color-coded speeds:
    pip install pygame
    ```
 2. Run traffic_simulator.py or traffic_simulator_with_car.py
-  ```bash
-  python traffic_simulator.py
-  ```
-  or
-  ```bash
-  python traffic_simulator_with_car.py
-  ```
+   ```bash
+   python traffic_simulator.py
+   ```
+   or
+   ```bash
+   python traffic_simulator_with_car.py
+   ```
