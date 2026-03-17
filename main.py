@@ -7,7 +7,7 @@ import sys
 # ------------ setar o fps maior aumenta a quantidade de carros por causa da logica---------------------
 CELL_SIZE = 25   
 GRID_SIZE = 30   
-FPS = 10
+FPS = 30
 
 COLOR_BG = (20, 20, 20)
 COLOR_ROAD = (45, 45, 45)
@@ -137,7 +137,7 @@ def main():
     pygame.display.set_caption("Simulador de Tráfego")
     
     try:
-        car_img = pygame.image.load("prog_concorrente/carro_tex.png").convert_alpha()
+        car_img = pygame.image.load("carro_tex.png").convert_alpha()
         car_img = pygame.transform.smoothscale(car_img, (CELL_SIZE, CELL_SIZE))
     except:
         car_img = None
